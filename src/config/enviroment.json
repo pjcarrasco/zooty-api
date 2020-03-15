@@ -1,0 +1,14 @@
+{
+    "development": {
+        "SERVERURL": "http://localhost:3000/",
+        "PORT": 3000,
+        "BD_CONNECT": "mongodb://localhost/zooty_db"
+    },
+    "production": {
+        "SERVERURL": "www.zooty.com",
+        "PORT": "8080",
+        "BD_CONNECT": "mongodb://localhost/zooty_db",
+        "REDIRECT_URL": true
+    },
+    "SEED": "navsd7f8a423%&/345667345lññl´ç`456345"
+}
